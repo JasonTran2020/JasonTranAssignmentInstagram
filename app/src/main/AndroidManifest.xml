@@ -12,6 +12,7 @@
         android:label="Instagram Clone"
         android:roundIcon="@mipmap/ic_icon"
         android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
         android:theme="@style/Theme.JasonTranAssignmentInstagram">
         <activity android:name=".SignUpActivity"></activity>
 
